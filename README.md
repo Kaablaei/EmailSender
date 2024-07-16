@@ -1,6 +1,2 @@
-<p> فقط پسورد رو باید از یاهو بگیرید 
+فقط پسورد رو باید از یاهو بگیرید  yahoo third party password
 
-
- yahoo third party password
-<ش>
- </p>
